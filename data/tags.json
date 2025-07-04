@@ -22,13 +22,6 @@
       "fixed": true
     },
     {
-      "href": "/outras",
-      "title": "Outras Listas",
-      "description": "Outras Listas de Atendimentos",
-      "group": "Página",
-      "fixed": true
-    },
-    {
       "href": "/sobre",
       "title": "Sobre",
       "description": "Informações sobre",
