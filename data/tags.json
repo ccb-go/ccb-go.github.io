@@ -388,9 +388,9 @@
       "autoSave": true
     },
     {
-      "href": "/lista?search=REUNIÃO PARA CRIANÇAS (RPC)",
-      "title": "REUNIÃO PARA CRIANÇAS (RPC)",
-      "description": "",
+      "href": "/lista?calendars=RPC",
+      "title": "REUNIÃO PARA CRIANÇAS (RPC / EBI)",
+      "description": "Espaço Bíblico Infantil (EBI)",
       "group": "Atendimento",
       "autoSave": true
     },
