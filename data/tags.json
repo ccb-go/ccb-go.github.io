@@ -5,57 +5,66 @@
       "title": "Lista Regional Faina",
       "description": "Lista de Atendimento da regional Faina",
       "group": "Regional Faina",
-      "fixed": true
+      "fixed": true,
+      "icon": "la la-list"
     },
     {
       "href": "/lista/calendar?start=2025-01-01&end=2025-12-31&calendars=REGIONAL+FAINA",
       "title": "Calendário Faina 2025",
       "description": "Calendário Regional Faina 2025",
       "group": "Regional Faina",
-      "fixed": true
+      "fixed": true,
+      "icon": "la la-calendar"
     },
     {
       "href": "/hinos",
       "title": "Hinos",
       "description": "Hinos de Louvores a Deus",
       "group": "Página",
-      "fixed": true
+      "fixed": true,
+      "icon": "la la-music"
     },
     {
       "href": "/forms/manutencao",
       "title": "Manutenção Preventiva: Solicitação",
       "description": "Solicitação de Manutenção Preventiva",
-      "group": "Página"
-    },
-    {
-      "href": "/forms/levantamento_preventiva",
-      "title": "Levantamento Preventiva: informar",
-      "description": "Dados iniciais para Levantamento Preventiva",
-      "group": "Página"
-    },
-    {
-      "href": "/sobre",
-      "title": "Sobre",
-      "description": "Informações sobre",
-      "group": "Página"
+      "group": "Página",
+      "icon": "la la-tools"
     },
     {
       "href": "https://www.youtube.com/congregacaocristanobrasil",
       "title": "Cultos Online",
       "description": "Canal do youtube",
-      "group": "Portal"
+      "group": "Portal",
+      "icon": "la la-youtube"
     },
     {
       "href": "https://siga.congregacao.org.br",
       "title": "SIGA",
       "description": "Sistema Integrado de Gestão Administrativa",
-      "group": "Portal"
+      "group": "Portal",
+      "icon": "la la-cogs"
+    },
+    {
+      "href": "/forms/levantamento_preventiva",
+      "title": "Levantamento Preventiva: informar",
+      "description": "Dados iniciais para Levantamento Preventiva",
+      "group": "Página",
+      "icon": "la la-info-circle"
+    },
+    {
+      "href": "/sobre",
+      "title": "Sobre",
+      "description": "Informações sobre",
+      "group": "Página",
+      "icon": "la la-info"
     },
     {
       "href": "https://suporte.congregacao.org.br/chamado",
       "title": "Chamado Brás",
       "description": "Chamado Brás",
-      "group": "Portal"
+      "group": "Portal",
+      "icon": "la la-headset"
     },
     {
       "href": "/depac",
@@ -81,14 +90,16 @@
       "title": "Cidade de Goiás",
       "description": "Lista Cid. Goiás",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Araguapaz -",
       "title": "Araguapaz",
       "description": "Cidade Araguapaz",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Aruanã -",
@@ -102,175 +113,200 @@
       "title": "Britânia",
       "description": "Cidade Britânia",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Carmo do Rio Verde -",
       "title": "Carmo do Rio Verde",
       "description": "Cidade Carmo do Rio Verde",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Faina -",
       "title": "Faina",
       "description": "Cidade Faina",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Goiânia -",
       "title": "Goiânia",
       "description": "Cidade Goiânia",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Guaraíta -",
       "title": "Guaraíta",
       "description": "Cidade Guaraíta",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Heitoraí -",
       "title": "Heitoraí",
       "description": "Cidade Heitoraí",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Itaberaí -",
       "title": "Itaberaí",
       "description": "Cidade Itaberaí",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Itapirapuã -",
       "title": "Itapirapuã",
       "description": "Cidade Itapirapuã",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Itapuranga -",
       "title": "Itapuranga",
       "description": "Cidade Itapuranga",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Jussara -",
       "title": "Jussara",
       "description": "Cidade Jussara",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Matrinchã -",
       "title": "Matrinchã",
       "description": "Cidade Matrinchã",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Morro Agudo de Goiás -",
       "title": "Morro Agudo de Goiás",
       "description": "Cidade Morro Agudo de Goiás",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Mossâmedes -",
       "title": "Mossâmedes",
       "description": "Cidade Mossâmedes",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Mozarlândia -",
       "title": "Mozarlândia",
       "description": "Cidade Mozarlândia",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Mundo Novo -",
       "title": "Mundo Novo",
       "description": "Cidade Mundo Novo",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Nova Crixás -",
       "title": "Nova Crixás",
       "description": "Cidade Nova Crixás",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Novo Brasil -",
       "title": "Novo Brasil",
       "description": "Cidade Novo Brasil",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Santa Fé de Goiás -",
       "title": "Santa Fé de Goiás",
       "description": "Cidade Santa Fé de Goiás",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Santa Rita (Itaberaí) -",
       "title": "Santa Rita (Itaberaí)",
       "description": "Cidade Santa Rita (Itaberaí)",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=São José dos Bandeirantes -",
       "title": "São José dos Bandeirantes",
       "description": "Cidade São José dos Bandeirantes",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=São Miguel do Araguaia -",
       "title": "São Miguel do Araguaia",
       "description": "Cidade São Miguel do Araguaia",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=São Patrício -",
       "title": "São Patrício",
       "description": "Cidade São Patrício",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Uruana -",
       "title": "Uruana",
       "description": "Cidade Uruana",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Uruíta -",
       "title": "Uruíta",
       "description": "Cidade Uruíta",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?locale=Americano do Brasil -",
       "title": "Americano do Brasil",
       "description": "Cidade Americano do Brasil",
       "group": "Regional Faina",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "las la-map-marker-alt"
     },
     {
       "href": "/lista?search=BATISMOS",
@@ -284,7 +320,8 @@
       "title": "Avisos à irmandade",
       "description": "",
       "group": "Atendimento",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "la la-bullhorn"
     },
     {
       "href": "/lista?search=Culto para a mocidade",
@@ -725,7 +762,8 @@
       "title": "Lista Goiânia",
       "description": "Lista Goiânia",
       "group": "Lista",
-      "autoSave": true
+      "autoSave": true,
+      "icon": "la la-list"
     }
   ],
   "defaultTags": [],
