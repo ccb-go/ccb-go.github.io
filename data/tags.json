@@ -46,6 +46,13 @@
       "icon": "la la-cogs"
     },
     {
+      "href": "/forms/contato",
+      "title": "Contato",
+      "description": "Pagina de contato, ajuda ou suporte",
+      "group": "Portal",
+      "icon": "la la-envelope"
+    },
+    {
       "href": "/forms/levantamento_preventiva",
       "title": "Levantamento Preventiva: informar",
       "description": "Dados iniciais para Levantamento Preventiva",
